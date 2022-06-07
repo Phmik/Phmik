@@ -6,6 +6,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   
  </div>
+ 
   
 - 🔭 I’m currently working on improving my coding abilities. My current project is to make a portfolio of my work
 - 🌱 I’m currently learning html and css in depth and javascript
