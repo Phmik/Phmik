@@ -32,7 +32,7 @@ I'm a beginner in Front-End Development and I come from Norway
 
 ### :fire: My Stats :
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phmik
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phmik)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phmik&layout=compact&theme=vision-friendly-dark)
 
