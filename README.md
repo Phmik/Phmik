@@ -7,6 +7,9 @@
   
  </div>
  
+ ## About me
+ 
+I'm a beginner in Front-End Development and I come from Norway
   
 - 🔭 I’m currently working on improving my coding abilities. My current project is to make a portfolio of my work
 - 🌱 I’m currently learning html and css in depth and javascript
