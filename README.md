@@ -9,7 +9,7 @@
  
  ---
  
- ## 🧙‍♂️ About me
+ ### 🧙‍♂️ About me
  
 I'm a beginner in Front-End Development and I come from Norway
   
