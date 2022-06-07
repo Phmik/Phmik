@@ -26,13 +26,9 @@ I'm a beginner in Front-End Development and I come from Norway
 
   ### :fire: My Stats :
   
-  <div align="center">
-  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phmik)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phmik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 
 
