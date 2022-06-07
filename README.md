@@ -7,6 +7,8 @@
   
  </div>
  
+ ---
+ 
  ## 🧙‍♂️ About me
  
 I'm a beginner in Front-End Development and I come from Norway
@@ -16,7 +18,7 @@ I'm a beginner in Front-End Development and I come from Norway
 - 📫 How to reach me: LinkedIn is the best way to reach out
 - ⚡ Fun fact: Have the lightning emoji tatooed on my arm. Codespeed increased
 
-
+---
 
 ### :hammer_and_wrench: Languages and Tools
 
