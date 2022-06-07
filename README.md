@@ -24,11 +24,9 @@ I'm a beginner in Front-End Development and I come from Norway
 - <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
 - <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20" height="20"/>&nbsp;
 
-
-
-<div align="center">
-
-  ## :fire: My Stats :
+  ### :fire: My Stats :
+  
+  <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phmik)](https://git.io/streak-stats)
   
