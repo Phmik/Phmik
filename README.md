@@ -18,7 +18,7 @@ I'm a beginner in Front-End Development and I come from Norway
 
 
 
-## :hammer_and_wrench: Languages and Tools
+### :hammer_and_wrench: Languages and Tools
 
 <div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phmik)](https://git.io/streak-stats)
