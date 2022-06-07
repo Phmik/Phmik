@@ -30,7 +30,7 @@ I'm a beginner in Front-End Development and I come from Norway
 
 ---
 
-  ### :fire: My Stats :
+### :fire: My Stats :
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phmik
   
